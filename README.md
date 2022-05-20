@@ -5,36 +5,35 @@
 - advertise cells
   >about 70% were wrote by me
 
-| Mainpage | Category |
-|--|--|
 | ![Imgur](https://i.imgur.com/orFxpIX.png) | ![Imgur](https://i.imgur.com/X8ZFSYn.png) |
+|--|--|
 ---
  
 - Tracked Brands
-![Imgur](https://i.imgur.com/ILacGsv.png)
+| ![Imgur](https://i.imgur.com/ILacGsv.png) | ![Imgur](https://i.imgur.com/Krd5fHE.png) | ![Imgur](https://i.imgur.com/NVwYcVS.png)
+|--|--|
  ---
  
 - Restock
-![Imgur](https://i.imgur.com/T0muoLy.png)
+| ![Imgur](https://i.imgur.com/T0muoLy.png) | ![Imgur](https://i.imgur.com/6v8Bd1M.png) |
+|--|--|
 ---
 
 - Register promotion activities
 
-| All activities | Registered activities |
-|--|--|
 | ![Imgur](https://i.imgur.com/RYBMQOx.png) | ![Imgur](https://i.imgur.com/ThvPdLy.png) |
+|--|--|
 ---
 
 - 5-hour delivery section
-![Imgur](https://i.imgur.com/t0UGMIG.png)
-
+ |![Imgur](https://i.imgur.com/t0UGMIG.png) | ![Imgur](https://i.imgur.com/rqCSm3F.jpg) | ![Imgur](https://i.imgur.com/K4R9H2V.png) |
+|--|--|
 ---
 
 - Trade in Section (history)
 
-| Records | Record detail |
-|--|--|
 | ![Imgur](https://i.imgur.com/QdXetX9.png) | ![Imgur](https://i.imgur.com/oRZ7keH.png)   |
+|--|--|
 ---
 
 ### 91APP
