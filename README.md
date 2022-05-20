@@ -10,11 +10,13 @@
 ---
  
 - Tracked Brands
-| ![Imgur](https://i.imgur.com/ILacGsv.png) | ![Imgur](https://i.imgur.com/Krd5fHE.png) | ![Imgur](https://i.imgur.com/NVwYcVS.png)
-|--|--|
+
+| ![Imgur](https://i.imgur.com/ILacGsv.png) | ![Imgur](https://i.imgur.com/Krd5fHE.png) | ![Imgur](https://i.imgur.com/NVwYcVS.png) |
+|--|--|--|
  ---
  
 - Restock
+
 | ![Imgur](https://i.imgur.com/T0muoLy.png) | ![Imgur](https://i.imgur.com/6v8Bd1M.png) |
 |--|--|
 ---
@@ -26,8 +28,9 @@
 ---
 
 - 5-hour delivery section
+
  |![Imgur](https://i.imgur.com/t0UGMIG.png) | ![Imgur](https://i.imgur.com/rqCSm3F.jpg) | ![Imgur](https://i.imgur.com/K4R9H2V.png) |
-|--|--|
+|--|--|--|
 ---
 
 - Trade in Section (history)
